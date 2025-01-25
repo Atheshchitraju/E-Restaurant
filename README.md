@@ -73,4 +73,4 @@ Adds a footer section with contact information, opening hours, and copyright not
 ![Footer Section](README_IMAGES/13.png "Footer Section")
 ## Credits
 ### Copyrights © 2023 Athesh Chitraju, All rights reserved.
-### Designed By : VishnuVardanKatta.
+### Designed By : Athhesh Chitraju.
